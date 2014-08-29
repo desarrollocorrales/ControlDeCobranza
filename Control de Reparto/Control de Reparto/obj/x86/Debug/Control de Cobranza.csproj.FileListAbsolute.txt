@@ -1,0 +1,31 @@
+D:\Github\Control-de-Cobranza\Control de Reparto\Control de Reparto\obj\x86\Debug\Control de Cobranza.csprojResolveAssemblyReference.cache
+D:\Github\Control-de-Cobranza\Control de Reparto\Control de Reparto\obj\x86\Debug\Control_de_Reparto.GUIs.ConfiguracionMicrosip.resources
+D:\Github\Control-de-Cobranza\Control de Reparto\Control de Reparto\obj\x86\Debug\Control_de_Reparto.GUIs.Frm_Principal.resources
+D:\Github\Control-de-Cobranza\Control de Reparto\Control de Reparto\obj\x86\Debug\Control_de_Cobranza.Properties.Resources.resources
+D:\Github\Control-de-Cobranza\Control de Reparto\Control de Reparto\obj\x86\Debug\Control de Cobranza.csproj.GenerateResource.Cache
+D:\Github\Control-de-Cobranza\Control de Reparto\Control de Reparto\obj\x86\Debug\Control de Cobranza.exe.licenses
+D:\Github\Control-de-Cobranza\Control de Reparto\Control de Reparto\bin\Debug\x64\SQLite.Interop.dll
+D:\Github\Control-de-Cobranza\Control de Reparto\Control de Reparto\bin\Debug\x86\SQLite.Interop.dll
+D:\Github\Control-de-Cobranza\Control de Reparto\Control de Reparto\bin\Debug\Control de Cobranza.exe.config
+D:\Github\Control-de-Cobranza\Control de Reparto\Control de Reparto\bin\Debug\Control de Cobranza.exe
+D:\Github\Control-de-Cobranza\Control de Reparto\Control de Reparto\bin\Debug\Control de Cobranza.pdb
+D:\Github\Control-de-Cobranza\Control de Reparto\Control de Reparto\bin\Debug\EntityFramework.dll
+D:\Github\Control-de-Cobranza\Control de Reparto\Control de Reparto\bin\Debug\EntityFramework.SqlServer.dll
+D:\Github\Control-de-Cobranza\Control de Reparto\Control de Reparto\bin\Debug\ExcelApi.dll
+D:\Github\Control-de-Cobranza\Control de Reparto\Control de Reparto\bin\Debug\FirebirdSql.Data.FirebirdClient.dll
+D:\Github\Control-de-Cobranza\Control de Reparto\Control de Reparto\bin\Debug\NetOffice.dll
+D:\Github\Control-de-Cobranza\Control de Reparto\Control de Reparto\bin\Debug\OfficeApi.dll
+D:\Github\Control-de-Cobranza\Control de Reparto\Control de Reparto\bin\Debug\System.Data.SQLite.dll
+D:\Github\Control-de-Cobranza\Control de Reparto\Control de Reparto\bin\Debug\System.Data.SQLite.EF6.dll
+D:\Github\Control-de-Cobranza\Control de Reparto\Control de Reparto\bin\Debug\System.Data.SQLite.Linq.dll
+D:\Github\Control-de-Cobranza\Control de Reparto\Control de Reparto\bin\Debug\VBIDEApi.dll
+D:\Github\Control-de-Cobranza\Control de Reparto\Control de Reparto\bin\Debug\EntityFramework.xml
+D:\Github\Control-de-Cobranza\Control de Reparto\Control de Reparto\bin\Debug\EntityFramework.SqlServer.xml
+D:\Github\Control-de-Cobranza\Control de Reparto\Control de Reparto\bin\Debug\ExcelApi.xml
+D:\Github\Control-de-Cobranza\Control de Reparto\Control de Reparto\bin\Debug\FirebirdSql.Data.FirebirdClient.pdb
+D:\Github\Control-de-Cobranza\Control de Reparto\Control de Reparto\bin\Debug\NetOffice.xml
+D:\Github\Control-de-Cobranza\Control de Reparto\Control de Reparto\bin\Debug\OfficeApi.xml
+D:\Github\Control-de-Cobranza\Control de Reparto\Control de Reparto\bin\Debug\System.Data.SQLite.xml
+D:\Github\Control-de-Cobranza\Control de Reparto\Control de Reparto\bin\Debug\VBIDEApi.xml
+D:\Github\Control-de-Cobranza\Control de Reparto\Control de Reparto\obj\x86\Debug\Control de Cobranza.exe
+D:\Github\Control-de-Cobranza\Control de Reparto\Control de Reparto\obj\x86\Debug\Control de Cobranza.pdb
